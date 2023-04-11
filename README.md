@@ -19,7 +19,7 @@ FUD (Fully Undetectable) @ 11/04/2023
 
 Clone the repository:
 ```bash
-git clone https://github
+git clone https://github.com/deeexcee-io/PowerShell-Reverse-Shell-Generator.git
 ```
 
 ### Usage
