@@ -41,4 +41,4 @@ Setup NC and catch Shell
 
 Made with <3 by myself and chatgpt.
 
-I am not a developer in anyway shape or form. I pentest and use other peoples code. If you think this code is trash, blame chatgpt. 
+I am not a developer in anyway shape or form. I pentest and use other peoples code/chatgpt. I ask chatgpt questions and it gives me answers.
