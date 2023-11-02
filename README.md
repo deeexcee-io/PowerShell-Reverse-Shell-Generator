@@ -1,12 +1,12 @@
 # PowerShell-Reverse-Shell-Generator
-Obfuscated, FUD Simple PowerShell Reverse Shell One-Liner
+Obfuscated, FUD (Defender) Simple PowerShell Reverse Shell One-Liner
 
 Inspired by https://github.com/t3l3machus. Check out his awesome tools and videos. All credit from this goes to me watching one of his videos.
 
-# Fully Undetectable PowerShell-Reverse-Shell-Generator
+# PowerShell-Reverse-Shell-Generator
 Obfuscated Reverse Shell Generator - Uses the standard PS one-liner and obfuscates the payload. Unique string each time to evade detection.
 
-FUD (Fully Undetectable) @ 11/04/2023
+FUD (Fully Undetectable - Defender) @ 11/04/2023
 
 ## Features
 * Generates a PowerShell Reverse Shell one-liner which bypasses Defender.
